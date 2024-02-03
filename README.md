@@ -2,7 +2,7 @@
 
 Compiled version of [nspell](https://github.com/wooorm/nspell), for use inside the browser.
 
-nspell.browser.en.js has been renamed to simply [nspell.browser.js](https://github.com/owhs/nspell-browser/tree/master/build/nspell.browser.js)
+nspell.browser.en.js has been renamed to simply [nspell.browser.js](https://github.com/owhs/nspell-browser/tree/master/build/nspell.browser.js); gzipped it only transfers ~275kb (!)
 
 
 # License
