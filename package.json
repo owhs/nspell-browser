@@ -5,15 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "rm -rf src build/* && node build.js"
+    "build": "node build.js"
   },
   "author": "Robert Krahn",
   "license": "MIT",
   "devDependencies": {
-    "buffer-loader": "0.0.1",
+    "buffer-loader": "0.1.0",
     "webpack": "^3.8.1",
     "dictionaries": "https://github.com/wooorm/dictionaries",
-    "nspell": "^1.0.4"
+    "nspell": "^2.1.5"
   },
   "dependencies": {}
 }
